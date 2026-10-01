@@ -1,0 +1,22 @@
+{
+  "name": "codeceptjs_parallel_bdd",
+  "version": "1.0.0",
+  "description": "codeceptjs tests with both parallel and BDD",
+  "main": "built/parallel.js",
+  "dependencies": {
+    "codeceptjs": "4.2.0",
+    "playwright": "^1.63.0",
+    "typescript": "^6.0.3",
+    "@types/node": "^26.6.2"
+  },
+  "engines": {
+    "node": ">=24.0.0",
+    "npm": ">=11.0.0"
+  },
+  "es6": true,
+  "author": "al-bre",
+  "license": "ISC",
+  "devDependencies": {
+    "globals": "^17.12.0"
+  }
+}
